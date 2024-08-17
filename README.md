@@ -1,6 +1,6 @@
 # Double Space Enter - VS Code Extension
 
-This Visual Studio Code extension allows you to insert a newline by double pressing the spacebar. A single press of the spacebar will insert a space, while a double press within a specified time will insert a newline (`\n`). 
+This Visual Studio Code extension allows you to insert a newline by double pressing the spacebar. A single press of the spacebar will insert a space, while a double press within a specified time will insert a newline (`\n`).**Requires VSCode at least 1.92.0 from engine!**
 
 ## Features
 
