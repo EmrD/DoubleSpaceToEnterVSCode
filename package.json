@@ -1,9 +1,10 @@
 {
   "name": "doublespacetoenter",
+  "icon": "logo.png",
   "displayName": "DoubleSpaceToEnter",
   "description": "Press space twice to enter!",
-  "version": "1.0.0",
-  "publisher": "Emr",
+  "version": "1.0.3",
+  "publisher": "EmrD",
   "engines": {
     "vscode": "^1.92.0"
   },
